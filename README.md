@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Dhopat</h1>
-<h3 align="center">Software Engineer Trainee | React Developer | Exploring Full Stack & AI</h3>
+<h3 align="center">Software Engineer | Exploring Full Stack & AI</h3>
 
 <p align="center">
   <a href="https://github.com/shubhamdhopat">
