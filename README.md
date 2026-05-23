@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 💼 Software Engineer Trainee at **Safran Digit**
+- 💼 SWE at **Safran Digit**
 - ⚡ Passionate about **Frontend Development, Backend APIs & AI Applications**
 - 🎯 Interested in building scalable full-stack applications
 - 📍 Based in Mumbai, India
