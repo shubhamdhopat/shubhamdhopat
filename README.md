@@ -1,72 +1,97 @@
-<h1 align="center">Hi 👋, I'm Shubham Dhopat</h1>
-<h3 align="center">Software Engineer | Exploring Full Stack & AI</h3>
+<h1 align="center">Hey 👋 I'm Shubham Dhopat</h1>
 
-<p align="center">
-  <a href="https://github.com/shubhamdhopat">
-    <img src="https://komarev.com/ghpvc/?username=shubhamdhopat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+<h3 align="center">
+SWE @ Safran Digit <br/>
+Frontend Developer • Full Stack Learner • AI Enthusiast
+</h3>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=React+Developer;Full+Stack+Learner;Building+AI+Applications;Always+Learning+New+Things" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 💼 SWE at **Safran Digit**
 - ⚡ Passionate about **Frontend Development, Backend APIs & AI Applications**
 - 🎯 Interested in building scalable full-stack applications
 - 📍 Based in Mumbai, India
 
----
 
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
+<br/><br/>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdhopat&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdhopat&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shubham-dhopat/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+<a href="https://github.com/shubhamdhopat">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://github.com/shubhamdhopat" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+<a href="https://www.linkedin.com/in/shubham-dhopat/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 </p>
 
 ---
 
-⭐️ From [Shubham Dhopat](https://github.com/shubhamdhopat)
+# 💻 Tech Stack
+
+<div align="center">
+
+## Frontend
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+
+## Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+## Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,dart" />
+
+## Tools & Cloud
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,firebase,docker" />
+
+</div>
+
+---
+
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamdhopat&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdhopat&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdhopat&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Activity Graph
+
+[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamdhopat&theme=tokyo-night)](https://github.com/shubhamdhopat)
+
+---
+
+<div align="center">
+
+### 🚀 "Code. Learn. Build. Repeat."
+
+</div>
