@@ -9,7 +9,7 @@ Frontend Developer • Full Stack Learner • AI Enthusiast
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=React+Developer;Full+Stack+Learner;Building+AI+Applications;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full+Stack+Learner;Building+AI+Applications;Always+Learning+New+Things" />
 
 </div>
 
